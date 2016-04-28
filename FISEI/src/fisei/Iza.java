@@ -9,5 +9,5 @@ package fisei;
  * @author Usuario
  */
 public class Iza {
-    
+    //el peque es maricon ajajajaj 
 }
