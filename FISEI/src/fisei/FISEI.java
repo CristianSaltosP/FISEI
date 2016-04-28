@@ -17,8 +17,6 @@ public class FISEI {
     public static void main(String[] args) {
         // TODO code application logic here
           //responder este mensaje
-        //HOLA COMPAÑEROS DE LA FISEI
-        // AUN NO TERMINAMOS DE SUBOR EL VIDEO
         
         
     }
