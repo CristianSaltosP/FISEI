@@ -10,4 +10,5 @@ package fisei;
  */
 public class Iza {
     //el peque es maricon ajajajaj 
+    // el ruiz tambien ajajajj
 }
