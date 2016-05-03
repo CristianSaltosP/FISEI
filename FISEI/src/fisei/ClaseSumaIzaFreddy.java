@@ -23,6 +23,7 @@ public class ClaseSumaIzaFreddy {
         //Que tal freddy
         //hola freddy
         //Hola señores les saluda saltos
+        // el link al inge ya le subimos nancy
     }
     
 }
