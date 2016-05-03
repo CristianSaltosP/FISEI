@@ -21,4 +21,12 @@ public class ClaseSumaVegaGeovanny {
     
     //que mas mijines listo para el viernes
     //Geo: jajaj de ley mijo
+
+
+
+
+
+
+        //seguros el viernes
+    
 }
