@@ -28,5 +28,6 @@ public class ClaseSumaVegaGeovanny {
 
 
         //seguros el viernes
+         // geo: simon traeras plata
     
 }
