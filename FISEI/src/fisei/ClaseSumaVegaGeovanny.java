@@ -21,6 +21,7 @@ public class ClaseSumaVegaGeovanny {
     
     //que mas mijines listo para el viernes
     //Geo: jajaj de ley mijo
+    //jajja pero un indor a de ser primero
 
 
 
@@ -29,5 +30,6 @@ public class ClaseSumaVegaGeovanny {
 
         //seguros el viernes
          // geo: simon traeras plata
+    //si van pero el viernes
     
 }
