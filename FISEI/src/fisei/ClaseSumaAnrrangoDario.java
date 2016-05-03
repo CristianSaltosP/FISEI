@@ -11,7 +11,7 @@ package fisei;
  */
 public class ClaseSumaAnrrangoDario {
     //dario
-    
+    //compañeros ya pagaron del boleto
     
     
     
