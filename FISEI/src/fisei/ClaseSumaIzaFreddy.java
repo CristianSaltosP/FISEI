@@ -9,7 +9,7 @@ package fisei;
  *
  * @author User
  */
-public class FISEI {
+public class ClaseSumaIzaFreddy {
 
     /**
      * @param args the command line arguments
