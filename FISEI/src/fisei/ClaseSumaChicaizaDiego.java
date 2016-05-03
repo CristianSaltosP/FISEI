@@ -21,7 +21,7 @@ public class ClaseSumaChicaizaDiego {
     
     // die: el nombre del grupo: Anonimous69 q dices andres esta 
     
-    //die: que fue
+    
     
     
     
