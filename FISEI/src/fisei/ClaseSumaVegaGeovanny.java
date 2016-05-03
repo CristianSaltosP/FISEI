@@ -14,7 +14,6 @@ public class ClaseSumaVegaGeovanny {
     
     //si van a ir el viernes a la inaguracion
             // de ley eso no se pregunta mijo
-    //  =) ahi q ir
     
     
     
@@ -23,7 +22,7 @@ public class ClaseSumaVegaGeovanny {
     //que mas mijines listo para el viernes
     //Geo: jajaj de ley mijo
     //jajja pero un indor a de ser primero
-    // die: pero seguro mijines
+
 
 
 
