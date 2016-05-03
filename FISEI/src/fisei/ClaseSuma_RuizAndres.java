@@ -22,11 +22,15 @@ public class ClaseSuma_RuizAndres {
     //die: que tal mijo si vamos a jugar?
     
     
-    
+   //and: seguro mijin 
     
     
     
     
     
     //geo: de ley mijo eso de uvas
+    
+    
+    
+   
 }
