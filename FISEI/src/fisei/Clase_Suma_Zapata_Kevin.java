@@ -5,7 +5,7 @@ package fisei;
  * @author Usuario
  Nombre: FREDY IZA
  */
-public class ClaseSuma_ZapataKevin {
+public class Clase_Suma_Zapata_Kevin {
   //hola kevin como estas 
     //Hola joven
 }
