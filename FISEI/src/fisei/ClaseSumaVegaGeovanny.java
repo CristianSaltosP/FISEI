@@ -13,7 +13,7 @@ package fisei;
 public class ClaseSumaVegaGeovanny {
     
     //si van a ir el viernes a la inaguracion
-    
+            // de ley eso no se pregunta mijo
     
     
     
