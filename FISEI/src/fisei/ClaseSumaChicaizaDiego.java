@@ -30,7 +30,7 @@ public class ClaseSumaChicaizaDiego {
     //Geo: que mas mijin 
     // que tal entonces pilas
     // Geo: y q dice la selena jajja XD
-    
+    // die: nada mijo mata de iras   
     
     
     
