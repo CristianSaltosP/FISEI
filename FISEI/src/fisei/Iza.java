@@ -8,7 +8,7 @@ package fisei;
  *
  * @author Usuario
  */
-public class Iza {
+public class ClaseSuma_ZapataKevin {
     //el peque es maricon ajajajaj 
     // el ruiz tambien ajajajj
     //zapata maricon
